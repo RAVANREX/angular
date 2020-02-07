@@ -1,0 +1,33 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .mat-toolbar {
+  background-color:rgb(97, 116, 221);
+
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+mat-sidenav-container{
+  background-color: beige;
+}
+ .button-row{
+ margin-inline-start: auto;
+ padding-right: 10px;
+ }
+ .button-row a:hover{
+   background-color: darkturquoise;
+  
+  }
+  .button-logout{
+    margin-inline-start: auto;
+    padding-right: 10px;
+    }
